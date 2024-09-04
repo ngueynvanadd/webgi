@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lưu trữ pizza - Pizza Online Thái Nguyên</title>
+	<atom:link href="/product-category/pizza/feed/" rel="self" type="application/rss+xml" />
+	<link>/product-category/pizza/</link>
+	<description></description>
+	<lastBuildDate>Sun, 21 Apr 2024 13:50:43 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/01/cropped-site-logo-2-32x32.png</url>
+	<title>Lưu trữ pizza - Pizza Online Thái Nguyên</title>
+	<link>/product-category/pizza/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Pizza Tôm Thịt Nướng Tiêu</title>
+		<link>/san-pham/pizza-tom-thit-nuong-tieu/</link>
+		
+		<dc:creator><![CDATA[pizza.dientupro.com]]></dc:creator>
+		<pubDate>Sun, 21 Apr 2024 13:50:43 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1291</guid>
+
+					<description><![CDATA[<p>Bài viết <a href="/san-pham/pizza-tom-thit-nuong-tieu/">Pizza Tôm Thịt Nướng Tiêu</a> đã xuất hiện đầu tiên vào ngày <a href="/">Pizza Online Thái Nguyên</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Bài viết <a href="/san-pham/pizza-tom-thit-nuong-tieu/">Pizza Tôm Thịt Nướng Tiêu</a> đã xuất hiện đầu tiên vào ngày <a href="/">Pizza Online Thái Nguyên</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pizza Bò BBQ Xốt Cay Hàn Quốc</title>
+		<link>/san-pham/pizza-bo-bbq-xot-cay-han-quoc/</link>
+		
+		<dc:creator><![CDATA[pizza.dientupro.com]]></dc:creator>
+		<pubDate>Sun, 21 Apr 2024 13:47:30 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1289</guid>
+
+					<description><![CDATA[<p>Bài viết <a href="/san-pham/pizza-bo-bbq-xot-cay-han-quoc/">Pizza Bò BBQ Xốt Cay Hàn Quốc</a> đã xuất hiện đầu tiên vào ngày <a href="/">Pizza Online Thái Nguyên</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Bài viết <a href="/san-pham/pizza-bo-bbq-xot-cay-han-quoc/">Pizza Bò BBQ Xốt Cay Hàn Quốc</a> đã xuất hiện đầu tiên vào ngày <a href="/">Pizza Online Thái Nguyên</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pizza Thit Súc sích</title>
+		<link>/san-pham/pizza-thit-suc-sich/</link>
+		
+		<dc:creator><![CDATA[pizza.dientupro.com]]></dc:creator>
+		<pubDate>Sat, 20 Apr 2024 23:08:44 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1240</guid>
+
+					<description><![CDATA[<p>Bài viết <a href="/san-pham/pizza-thit-suc-sich/">Pizza Thit Súc sích</a> đã xuất hiện đầu tiên vào ngày <a href="/">Pizza Online Thái Nguyên</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Bài viết <a href="/san-pham/pizza-thit-suc-sich/">Pizza Thit Súc sích</a> đã xuất hiện đầu tiên vào ngày <a href="/">Pizza Online Thái Nguyên</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pizza Sôt Cay Hàn</title>
+		<link>/san-pham/pizza-sot-cay-han/</link>
+		
+		<dc:creator><![CDATA[pizza.dientupro.com]]></dc:creator>
+		<pubDate>Sat, 20 Apr 2024 23:07:31 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=1238</guid>
+
+					<description><![CDATA[<p>Bài viết <a href="/san-pham/pizza-sot-cay-han/">Pizza Sôt Cay Hàn</a> đã xuất hiện đầu tiên vào ngày <a href="/">Pizza Online Thái Nguyên</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Bài viết <a href="/san-pham/pizza-sot-cay-han/">Pizza Sôt Cay Hàn</a> đã xuất hiện đầu tiên vào ngày <a href="/">Pizza Online Thái Nguyên</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

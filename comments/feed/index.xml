@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Bình luận cho Pizza Online Thái Nguyên	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 06 Apr 2024 05:04:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.5</generator>
+	<item>
+		<title>
+		Phản hồi cho Top 11 Địa điểm ăn vặt nên đến nhất tại tỉnh Thái Nguyên bởi pizza.dientupro.com		</title>
+		<link>/top-11-dia-diem-an-vat-nen-den-nhat-tai-tinh-thai-nguyen-2/874/#comment-3</link>
+
+		<dc:creator><![CDATA[pizza.dientupro.com]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2024 01:23:56 +0000</pubDate>
+		<guid isPermaLink="false">/?p=874#comment-3</guid>
+
+					<description><![CDATA[Thông tin khá bổ ích]]></description>
+			<content:encoded><![CDATA[<p>Thông tin khá bổ ích</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Phản hồi cho Top 11 Địa điểm ăn vặt nên đến nhất tại tỉnh Thái Nguyên bởi pizza.dientupro.com		</title>
+		<link>/top-11-dia-diem-an-vat-nen-den-nhat-tai-tinh-thai-nguyen-2/874/#comment-2</link>
+
+		<dc:creator><![CDATA[pizza.dientupro.com]]></dc:creator>
+		<pubDate>Thu, 14 Mar 2024 01:05:38 +0000</pubDate>
+		<guid isPermaLink="false">/?p=874#comment-2</guid>
+
+					<description><![CDATA[thông tin khá bổ ích ạ]]></description>
+			<content:encoded><![CDATA[<p>thông tin khá bổ ích ạ</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
